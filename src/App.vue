@@ -18,7 +18,7 @@ import Amirul from "./assets/Amirul.jpg";
         <p
           class="text-sm leading-4 font-medium text-white sm:text-slate-500 dark:sm:text-slate-400"
         >
-          Mohammad Amirul Syafie
+          Mohammad Amirul Syafie😎
         </p>
       </div>
       <div
@@ -26,19 +26,10 @@ import Amirul from "./assets/Amirul.jpg";
       >
       <img :src="Amirul" alt="Student Image" />
       </div>
-      <dl
-        class="mt-4 text-xs font-medium flex items-center row-start-2 sm:mt-1 sm:row-start-3 md:mt-2.5 lg:row-start-2"
-      >
-      </dl>
-      <div
-        class="mt-4 col-start-1 row-start-3 self-center sm:mt-0 sm:col-start-2 sm:row-start-2 sm:row-span-2 lg:mt-6 lg:col-start-1 lg:row-start-3 lg:row-end-4"
-      >
-      </div>
       <p
         class="mt-4 text-sm leading-6 col-start-1 sm:col-span-2 lg:mt-6 lg:row-start-4 lg:col-span-1 dark:text-slate-400"
       >
-        My name is Mohammad Amirul Syafie and I am a student at Politeknik Brunei. I am currently studying in the field of Web Development. My hobby is playing games such as valorant. I am also interested in learning new things and gaining new experiences.
-    </p>
+My name is Mohammad Amirul Syafie, and I am a student at Politeknik Brunei, specializing in Web Development. Outside of academics, I enjoy playing games, particularly Valorant. I have a keen interest in continuous learning and am always eager to gain new experiences.    </p>
     </div>
   </main>
 </template>
