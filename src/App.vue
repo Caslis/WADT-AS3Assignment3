@@ -45,7 +45,7 @@ import Amirul from "./assets/Amirul.jpg";
       <p
         class="mt-4 text-sm leading-6 col-start-1 sm:col-span-2 lg:mt-6 lg:row-start-4 lg:col-span-1 dark:text-slate-400"
       >
-        I am a student at the Politeknik Brunei, majoring in Web Development.
+        My name is Mohammad Amirul Syafie and I am a student at Politeknik Brunei. I am currently studying in the field of Web Development. My hobby is playing games such as valorant. I am also interested in learning new things and gaining new experiences.
     </p>
     </div>
   </main>
